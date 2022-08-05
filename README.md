@@ -1,6 +1,6 @@
 # Portfolio-Project
 SQL Query 
-
+Note:- Use SQL Server for the result 
 
 --DDL= Data deffination Language----
 -------*******************--------------
