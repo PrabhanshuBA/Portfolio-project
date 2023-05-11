@@ -1,5 +1,7 @@
 SQL ASSIGNMENT
+
 Instructions:-
+
 1.Download the data files for this Assignment. Your first task is to create tables from the data files. In order to do so, please follow the steps given below:
 i. Open MySQL Workbench
 ii. Connect to your database using the connection you have created
